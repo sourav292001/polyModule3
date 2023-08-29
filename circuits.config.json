@@ -1,0 +1,13 @@
+[
+  {
+    "name": "CircuitKashyap",
+    "protocol": "groth16",
+    "circuit": "CircuitKashyap/circuit.circom",
+    "input": "CircuitKashyap/input.json",
+    "wasm": "CircuitKashyap/out/circuit.wasm",
+    "zkey": "CircuitKashyap/out/CircuitKashyap.zkey",
+    "vkey": "CircuitKashyap/out/CircuitKashyap.vkey",
+    "r1cs": "CircuitKashyap/out/CircuitKashyap.r1cs",
+    "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
+  }
+]
